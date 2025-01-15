@@ -1,15 +1,23 @@
-# [Project Name] Test Automation Framework
+# Hello, I'm Dailius
+### I'm QA engneer.
 
-<a href="#about-me">About Me</a><br>
-<a href="#my-projects">My Projects</a><br>
-<a href="#my-blog">My Blog</a><br>
+<h2>
+  <a href="#about-me">About Me</a>
+</h2>
+<h2>
+  <a href="#my-projects">My Projects</a>
+</h2>
+<h2>
+  <a href="#my-blog">My Blog</a>
+</h2>
 
-<br><br>
-# ABOUT ME
+<br><br><br>
+<h1 id="about-me" >ABOUT ME</h1>
 
+some description about me...
 
-# MY PROJECTS
-
+<br><br><br>
+<h1 id="my-projects" >MY PROJECTS</h1>
 
 [![Project Logo or Banner]](link-to-image)
 
@@ -37,6 +45,7 @@
 4. **Run Tests:** `[Your Test Execution Command]`
 
 <br><br><br>
-<h1 id="by-blog" >My BLOG</h1>
+<h1 id="my-blog" >My BLOG</h1>
 
-kazkokie straipsniai apie kazka ir tt
+
+some my articles about technology ...
