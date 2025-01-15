@@ -1,8 +1,14 @@
 # [Project Name] Test Automation Framework
 
-[About me]()  
-[My projects]()  
-[My blog]()
+[About me](# ABOUT-ME)  
+[My projects](# MY-PROJECTS)  
+[My blog](# MY-BLOG)
+
+<br><br><br>
+# ABOUT ME
+
+
+# MY PROJECTS
 
 [![Project Logo or Banner]](link-to-image)
 
@@ -28,3 +34,8 @@
 2. **Install Dependencies:** `[Your Installation Command]`
 3. **Configure Environment:**  Set up any required environment variables or configurations.
 4. **Run Tests:** `[Your Test Execution Command]`
+
+<br><br><br>
+# MY BLOG
+
+kazkokie straipsniai apie kazka ir tt
