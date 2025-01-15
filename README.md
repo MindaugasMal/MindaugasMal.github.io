@@ -9,7 +9,7 @@
 
 
 # MY PROJECTS
-<h1 id="by-blog" >My PROJECTS</h1>
+
 
 [![Project Logo or Banner]](link-to-image)
 
