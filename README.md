@@ -1,14 +1,15 @@
 # [Project Name] Test Automation Framework
 
-[About me](#ABOUT-ME)  
-[My projects](#MY-PROJECTS)  
-[My blog](#MY-BLOG)
+<a href="#about-me">About Me</a><br>
+<a href="#my-projects">My Projects</a><br>
+<a href="#my-blog">My Blog</a><br>
 
-<br><br><br>
+<br><br>
 # ABOUT ME
 
 
 # MY PROJECTS
+<h1 id="by-blog" >My PROJECTS</h1>
 
 [![Project Logo or Banner]](link-to-image)
 
@@ -36,6 +37,6 @@
 4. **Run Tests:** `[Your Test Execution Command]`
 
 <br><br><br>
-# MY BLOG
+<h1 id="by-blog" >My BLOG</h1>
 
 kazkokie straipsniai apie kazka ir tt
